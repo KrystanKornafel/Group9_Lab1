@@ -1,0 +1,1 @@
+Please note that in the gradle.properties file, you may need to update the path name (on line 2, under "C:/..../Java/...") to reflect the version of the JDK you have on your computer. 
